@@ -15,13 +15,13 @@ export default function Home() {
         <p className="description">
          This is my hobby website
         </p>
-      </main>
-<a herf="https://manga.realyami.in">manga</a>
-<a herf="https://ani.realyami.in">anime-db</a>
-<a herf="https:stream.realyami.in">anime-watch</a>
-<a herf="https://yt.realyami.in">youtube</a>
-<a herf="https://porn.realyami.in">nothing</a>
-
+     
+<a herf="https://manga.realyami.in/" target="_blank">manga</a>
+<a herf="https://ani.realyami.in/" target="_blank">anime-db</a>
+<a herf="https:stream.realyami.in/" target="_blank">anime-watch</a>
+<a herf="https://yt.realyami.in/" target="_blank">youtube</a>
+<a herf="https://porn.realyami.in/" target="_blank">nothing</a>
+</main>
       <Footer />
     </div>
   )
