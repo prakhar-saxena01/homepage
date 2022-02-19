@@ -16,11 +16,11 @@ export default function Home() {
          This is my hobby website
         </p>
      
-<a herf="https://manga.realyami.in/" target="_blank">manga</a>
-<a herf="https://ani.realyami.in/" target="_blank">anime-db</a>
-<a herf="https:stream.realyami.in/" target="_blank">anime-watch</a>
-<a herf="https://yt.realyami.in/" target="_blank">youtube</a>
-<a herf="https://porn.realyami.in/" target="_blank">nothing</a>
+<a href="https://manga.realyami.in/" target="_blank">manga</a>
+<a href="https://ani.realyami.in/" target="_blank">anime-db</a>
+<a href="https:stream.realyami.in/" target="_blank">anime-watch</a>
+<a href="https://yt.realyami.in/" target="_blank">youtube</a>
+<a href="https://porn.realyami.in/" target="_blank">nothing</a>
 </main>
       <Footer />
     </div>
