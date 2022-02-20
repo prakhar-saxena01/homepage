@@ -20,7 +20,6 @@ export default function Home() {
 <a href="https://ani.realyami.in/" target="_blank">anime-db</a>
 <a href="https://stream.realyami.in/" target="_blank">anime-watch</a>
 <a href="https://yt.realyami.in/" target="_blank">youtube</a>
-<a href="https://porn.realyami.in/" target="_blank">nothing</a>
 </main>
       <Footer />
     </div>
